@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log ("Boas vindas a API do Allbooks")
-  console.log("Acesse essa API na URL http://localhost:8000")
+  console.log("API disponivel atravez da URL http://localhost:8000")
 })
